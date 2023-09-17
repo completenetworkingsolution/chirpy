@@ -7,4 +7,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-sitemap
-  - jekyll-remote-theme
